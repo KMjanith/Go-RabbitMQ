@@ -1,4 +1,4 @@
-## run t rabbitmq doccker image or use the deployed rabbitmq in gcp, change the url accordingly
+# run the rabbitmq docker image or use the deployed rabbitmq in gcp, change the url accordingly
 ## use to install dependencies
 ```
 go mod tidy
